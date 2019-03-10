@@ -7,10 +7,10 @@ menu: main
 weight: 4
 ---
 
-* Livsnjutarkortet, yoga hur mycket du vill from 11/1 tom 12/6-2019, delta i workshops, aktiviteter, föreläsningar mm, 5000 SEK
-* En klass i veckan kvällstid from 11/1 tom 12/6-2019, 3000 SEK
-* Två klasser i veckan from 11/1 tom 12/6-2019, 4000 SEK
-* En klass i veckan dagtid from 11/1 tom 12/6-2019, 2800 SEK
+* Livsnjutarkortet, yoga hur mycket du vill fr.o.m. `11/1` t.o.m. `12/6-2019`, delta i workshops, aktiviteter, föreläsningar mm, 5000 SEK
+* En klass i veckan kvällstid from `11/1` tom `12/6-2019`, 3000 SEK
+* Två klasser i veckan from `11/1` tom `12/6-2019`, 4000 SEK
+* En klass i veckan dagtid from `11/1` tom `12/6-2019`, 2800 SEK
 * Klippkort 10 gånger, 1650 SEK
 * Klippkort 10 gånger ungdom/senior[^1], 1000 SEK
 * Klippkort 5 gånger, 875 SEK

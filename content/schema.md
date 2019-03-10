@@ -26,8 +26,8 @@ Yogan kommer dels att finnas som fasta kurser med bestämda tider på schemat un
 **Fredagar:**
 
 - 12.00-13.00 Lunch Hatha
-- 16.30-18.15 Restorative yoga (25/1, 22/2, 29/3)
-- 17.00 – 18.00 After work yoga (11/1, 15/2, 15/3,5/4, 3/5)
+- 16.30-18.15 Restorative yoga (`25/1`, `22/2`, `29/3`)
+- 17.00 – 18.00 After work yoga (`11/1`, `15/2`, `15/3`, `5/4`, `3/5`)
 
 **Lördag**, datum annonseras framöver**:**
 
