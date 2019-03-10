@@ -1,4 +1,4 @@
-baseURL = "http://livsnjutaren.net/"
+baseURL = "https://livsnjutaren.netlify.com"
 languageCode = "se"
 title = "Livsnjutaren"
 theme = "terrassa"
