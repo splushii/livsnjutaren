@@ -15,19 +15,18 @@ Yogan kommer dels att finnas som fasta kurser med bestämda tider på schemat un
 **Måndagar:**\
 **Tisdagar:**
 
-- 11.00-12.00 11.00-12.00 Soft soppyoga för den vardagsledige
-- 18.00-19.15 Yoga för nybörjare (Hatha yoga)
-- 19.30-20.45 Yin yoga
 
 **Onsdagar:**
 
-- 19.15-20.30 Yoga för mer vana (Hatha yoga)
+- 11.00-12.00 Soft soppyoga för den vardagsledige
+- 18.35-19.40 Yoga för mer vana (Hatha yoga)
+- 19.50-21.00 Yin yoga
 
 **Fredagar:**
 
-- 12.00-13.00 Lunch Hatha
-- 16.30-18.15 Restorative yoga (`25/1`, `22/2`, `29/3`)
-- 17.00 – 18.00 After work yoga (`11/1`, `15/2`, `15/3`, `5/4`, `3/5`)
+- 11.30-12.30 Senioryoga (jämna veckor from den 24/1)
+- 16.30-18.15 Restorative yoga (Se datum under work shops)
+- 17.00 – 18.00 After work yoga (Se datum under work shops)
 
 **Lördag**, datum annonseras framöver**:**
 
@@ -35,7 +34,7 @@ Yogan kommer dels att finnas som fasta kurser med bestämda tider på schemat un
 
 **Söndagar**, datum annonseras framöver**:**
 
-- 16.30-18.00 Yoga efter din egna aktivitet\
+- 16.00-17.00 Yoga efter din egna aktivitet\
 (skidåkaryoga, efter vandring yoga etc)
 
 # Ayurvedisk seed massage
@@ -51,7 +50,7 @@ Vandringar med samtal, förhoppningen är att kunna nå nyanlända kvinnor som v
 
 Vandringar med yoga (på din matta eller på skogens mossmatta).
 
-Fitness och yoga.
+Urkraft och yoga, funktionell träning i skogen och release yoga.
 
 # Workshops
 Annonseras efter hand.
